@@ -1,0 +1,534 @@
+// !$*UTF8*$!
+{
+	0022AD24123EEE4E00D8B452 /* FrontWindowSignal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{365, 0}";
+			sepNavVisRange = "{0, 365}";
+		};
+	};
+	0022AD25123EEE4E00D8B452 /* FrontWindowSignal.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {936, 2483}}";
+			sepNavSelRange = "{334, 0}";
+			sepNavVisRange = "{2542, 1576}";
+		};
+	};
+	0022AE68123F123500D8B452 /* JSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2070, 845}}";
+			sepNavSelRange = "{2776, 0}";
+			sepNavVisRange = "{288, 2596}";
+		};
+	};
+	0022AE6A123F123500D8B452 /* NSObject+SBJSON.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 745}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1917}";
+		};
+	};
+	0022AE6E123F123500D8B452 /* SBJsonBase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {878, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2193}";
+		};
+	};
+	0022AE7B123F12B100D8B452 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0022AE6E123F123500D8B452 /* SBJsonBase.m */;
+		name = "SBJsonBase.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2193;
+		vrLoc = 0;
+	};
+	0022AE88123F131600D8B452 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0022AE6A123F123500D8B452 /* NSObject+SBJSON.m */;
+		name = "NSObject+SBJSON.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1917;
+		vrLoc = 0;
+	};
+	002903441266079D00F4DC26 /* ScreenshotSignal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 722}}";
+			sepNavSelRange = "{96, 0}";
+			sepNavVisRange = "{0, 105}";
+		};
+	};
+	002903451266079D00F4DC26 /* ScreenshotSignal.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{235, 0}";
+			sepNavVisRange = "{0, 1043}";
+		};
+	};
+	007C9AD01267A784000BABBB /* UtilVarints.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 722}}";
+			sepNavSelRange = "{38, 11}";
+			sepNavVisRange = "{0, 194}";
+		};
+	};
+	007C9AD31267A795000BABBB /* Signal.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = Signal.m;
+		path = /Users/a/repos/MacLogger/MacLogger/Signal.m;
+		sourceTree = "<absolute>";
+	};
+	007C9AD51267A7A0000BABBB /* UtilVarints.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = UtilVarints.m;
+		path = /Users/a/repos/MacLogger/MacLogger/UtilVarints.m;
+		sourceTree = "<absolute>";
+	};
+	007C9ADC1267A8FD000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0022AE68123F123500D8B452 /* JSON.h */;
+		name = "JSON.h: 58";
+		rLen = 0;
+		rLoc = 2776;
+		rType = 0;
+		vrLen = 2596;
+		vrLoc = 288;
+	};
+	007C9ADD1267A8FD000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 007C9AD01267A784000BABBB /* UtilVarints.h */;
+		name = "UtilVarints.h: 5";
+		rLen = 11;
+		rLoc = 38;
+		rType = 0;
+		vrLen = 194;
+		vrLoc = 0;
+	};
+	007C9ADE1267A8FD000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 007C9AD51267A7A0000BABBB /* UtilVarints.m */;
+		name = "UtilVarints.m: 14";
+		rLen = 0;
+		rLoc = 292;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	007C9ADF1267A8FD000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00AB25C81218349F005E5FA7 /* Signal.h */;
+		name = "Signal.h: 19";
+		rLen = 0;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 427;
+		vrLoc = 0;
+	};
+	007C9AE01267A8FD000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 007C9AD31267A795000BABBB /* Signal.m */;
+		name = "Signal.m: 77";
+		rLen = 0;
+		rLoc = 1470;
+		rType = 0;
+		vrLen = 1299;
+		vrLoc = 938;
+	};
+	007C9AE11267A8FD000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00AB25CB121834AE005E5FA7 /* MousePosSignal.h */;
+		name = "MousePosSignal.h: 11";
+		rLen = 0;
+		rLoc = 113;
+		rType = 0;
+		vrLen = 113;
+		vrLoc = 0;
+	};
+	007C9AE31267A8FD000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00AB25CE121834BC005E5FA7 /* InputIdleSignal.h */;
+		name = "InputIdleSignal.h: 12";
+		rLen = 0;
+		rLoc = 132;
+		rType = 0;
+		vrLen = 132;
+		vrLoc = 0;
+	};
+	007C9AE71267A8FD000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 002903441266079D00F4DC26 /* ScreenshotSignal.h */;
+		name = "ScreenshotSignal.h: 7";
+		rLen = 0;
+		rLoc = 96;
+		rType = 0;
+		vrLen = 105;
+		vrLoc = 0;
+	};
+	007C9AF51267A975000BABBB /* MousePosSignal.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MousePosSignal.m;
+		path = /Users/a/repos/MacLogger/MacLogger/MousePosSignal.m;
+		sourceTree = "<absolute>";
+	};
+	007C9AFA1267A97D000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* MacLoggerAppDelegate.h */;
+		name = "MacLoggerAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 172;
+		rType = 0;
+		vrLen = 172;
+		vrLoc = 0;
+	};
+	007C9AFB1267A97D000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* MacLoggerAppDelegate.m */;
+		name = "MacLoggerAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 227;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
+	};
+	007C9AFC1267A97D000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00AB25E41218361B005E5FA7 /* Controller.h */;
+		name = "Controller.h: 16";
+		rLen = 0;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 0;
+	};
+	007C9AFD1267A97D000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00AB25E51218361B005E5FA7 /* Controller.m */;
+		name = "Controller.m: 22";
+		rLen = 0;
+		rLoc = 489;
+		rType = 0;
+		vrLen = 1271;
+		vrLoc = 0;
+	};
+	007C9B0C1267ABE3000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 007C9AF51267A975000BABBB /* MousePosSignal.m */;
+		name = "MousePosSignal.m: 25";
+		rLen = 0;
+		rLoc = 308;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 0;
+	};
+	007C9B0D1267ABE3000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0022AD24123EEE4E00D8B452 /* FrontWindowSignal.h */;
+		name = "FrontWindowSignal.h: 17";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 0;
+	};
+	007C9B0E1267ABE3000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00AB25CF121834BC005E5FA7 /* InputIdleSignal.m */;
+		name = "InputIdleSignal.m: 22";
+		rLen = 0;
+		rLoc = 382;
+		rType = 0;
+		vrLen = 1520;
+		vrLoc = 1;
+	};
+	007C9B0F1267ABE3000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0022AD25123EEE4E00D8B452 /* FrontWindowSignal.m */;
+		name = "FrontWindowSignal.m: 29";
+		rLen = 0;
+		rLoc = 334;
+		rType = 0;
+		vrLen = 1576;
+		vrLoc = 2542;
+	};
+	007C9B151267AE8F000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 002903451266079D00F4DC26 /* ScreenshotSignal.m */;
+		name = "ScreenshotSignal.m: 20";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 1043;
+		vrLoc = 0;
+	};
+	007C9B161267AE8F000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	007C9B171267AE8F000BABBB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MacLogger-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/a/repos/MacLogger/MacLogger/MacLogger-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	007C9B181267AE8F000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 8";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 122;
+		vrLoc = 0;
+	};
+	007C9B191267AE8F000BABBB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* MacLogger_Prefix.pch */;
+		name = "MacLogger_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 149;
+		vrLoc = 0;
+	};
+	00AB23C212182CAB005E5FA7 /* MacLogger */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MacLogger;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	00AB23DF12182CBA005E5FA7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	00AB23E012182CBA005E5FA7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	00AB25C81218349F005E5FA7 /* Signal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 722}}";
+			sepNavSelRange = "{304, 0}";
+			sepNavVisRange = "{0, 427}";
+			sepNavWindowFrame = "{{65, 47}, {878, 964}}";
+		};
+	};
+	00AB25C91218349F005E5FA7 /* Signal.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 1456}}";
+			sepNavSelRange = "{1467, 0}";
+			sepNavVisRange = "{935, 1293}";
+			sepNavWindowFrame = "{{35, 0}, {878, 878}}";
+		};
+	};
+	00AB25CB121834AE005E5FA7 /* MousePosSignal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 722}}";
+			sepNavSelRange = "{113, 0}";
+			sepNavVisRange = "{0, 113}";
+			sepNavWindowFrame = "{{42, 68}, {878, 964}}";
+		};
+	};
+	00AB25CC121834AE005E5FA7 /* MousePosSignal.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 722}}";
+			sepNavSelRange = "{305, 0}";
+			sepNavVisRange = "{0, 698}";
+		};
+	};
+	00AB25CE121834BC005E5FA7 /* InputIdleSignal.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 722}}";
+			sepNavSelRange = "{132, 0}";
+			sepNavVisRange = "{0, 132}";
+		};
+	};
+	00AB25CF121834BC005E5FA7 /* InputIdleSignal.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {923, 1911}}";
+			sepNavSelRange = "{411, 0}";
+			sepNavVisRange = "{0, 563}";
+		};
+	};
+	00AB25E41218361B005E5FA7 /* Controller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRange = "{0, 220}";
+		};
+	};
+	00AB25E51218361B005E5FA7 /* Controller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{489, 0}";
+			sepNavVisRange = "{0, 1271}";
+		};
+	};
+	00F10E351267AF2900F7B402 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* MacLogger_Prefix.pch */;
+		name = "MacLogger_Prefix.pch: 8";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 149;
+		vrLoc = 0;
+	};
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* MacLoggerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{172, 0}";
+			sepNavVisRange = "{0, 172}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* MacLoggerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{227, 0}";
+			sepNavVisRange = "{0, 227}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* MacLogger_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 149}";
+			sepNavWindowFrame = "{{88, 252}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 00AB23C212182CAB005E5FA7 /* MacLogger */;
+		activeTarget = 8D1107260486CEB800E47090 /* MacLogger */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MacLogger */,
+		);
+		codeSenseManager = 00AB23E012182CBA005E5FA7 /* Code sense */;
+		executables = (
+			00AB23C212182CAB005E5FA7 /* MacLogger */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					652,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308784933;
+			PBXWorkspaceStateSaveDate = 308784933;
+		};
+		perUserProjectItems = {
+			0022AE7B123F12B100D8B452 /* PBXTextBookmark */ = 0022AE7B123F12B100D8B452 /* PBXTextBookmark */;
+			0022AE88123F131600D8B452 /* PBXTextBookmark */ = 0022AE88123F131600D8B452 /* PBXTextBookmark */;
+			007C9ADC1267A8FD000BABBB /* PBXTextBookmark */ = 007C9ADC1267A8FD000BABBB /* PBXTextBookmark */;
+			007C9ADD1267A8FD000BABBB /* PBXTextBookmark */ = 007C9ADD1267A8FD000BABBB /* PBXTextBookmark */;
+			007C9ADE1267A8FD000BABBB /* PBXTextBookmark */ = 007C9ADE1267A8FD000BABBB /* PBXTextBookmark */;
+			007C9ADF1267A8FD000BABBB /* PBXTextBookmark */ = 007C9ADF1267A8FD000BABBB /* PBXTextBookmark */;
+			007C9AE01267A8FD000BABBB /* PBXTextBookmark */ = 007C9AE01267A8FD000BABBB /* PBXTextBookmark */;
+			007C9AE11267A8FD000BABBB /* PBXTextBookmark */ = 007C9AE11267A8FD000BABBB /* PBXTextBookmark */;
+			007C9AE31267A8FD000BABBB /* PBXTextBookmark */ = 007C9AE31267A8FD000BABBB /* PBXTextBookmark */;
+			007C9AE71267A8FD000BABBB /* PBXTextBookmark */ = 007C9AE71267A8FD000BABBB /* PBXTextBookmark */;
+			007C9AFA1267A97D000BABBB /* PBXTextBookmark */ = 007C9AFA1267A97D000BABBB /* PBXTextBookmark */;
+			007C9AFB1267A97D000BABBB /* PBXTextBookmark */ = 007C9AFB1267A97D000BABBB /* PBXTextBookmark */;
+			007C9AFC1267A97D000BABBB /* PBXTextBookmark */ = 007C9AFC1267A97D000BABBB /* PBXTextBookmark */;
+			007C9AFD1267A97D000BABBB /* PBXTextBookmark */ = 007C9AFD1267A97D000BABBB /* PBXTextBookmark */;
+			007C9B0C1267ABE3000BABBB /* PBXTextBookmark */ = 007C9B0C1267ABE3000BABBB /* PBXTextBookmark */;
+			007C9B0D1267ABE3000BABBB /* PBXTextBookmark */ = 007C9B0D1267ABE3000BABBB /* PBXTextBookmark */;
+			007C9B0E1267ABE3000BABBB /* PBXTextBookmark */ = 007C9B0E1267ABE3000BABBB /* PBXTextBookmark */;
+			007C9B0F1267ABE3000BABBB /* PBXTextBookmark */ = 007C9B0F1267ABE3000BABBB /* PBXTextBookmark */;
+			007C9B151267AE8F000BABBB /* PBXTextBookmark */ = 007C9B151267AE8F000BABBB /* PBXTextBookmark */;
+			007C9B161267AE8F000BABBB /* PBXTextBookmark */ = 007C9B161267AE8F000BABBB /* PBXTextBookmark */;
+			007C9B171267AE8F000BABBB /* PlistBookmark */ = 007C9B171267AE8F000BABBB /* PlistBookmark */;
+			007C9B181267AE8F000BABBB /* PBXTextBookmark */ = 007C9B181267AE8F000BABBB /* PBXTextBookmark */;
+			007C9B191267AE8F000BABBB /* PBXTextBookmark */ = 007C9B191267AE8F000BABBB /* PBXTextBookmark */;
+			00F10E351267AF2900F7B402 /* PBXTextBookmark */ = 00F10E351267AF2900F7B402 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 00AB23DF12182CBA005E5FA7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {830, 745}}";
+			sepNavSelRange = "{122, 0}";
+			sepNavVisRange = "{0, 122}";
+			sepNavWindowFrame = "{{19, 89}, {878, 964}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* MacLogger */ = {
+		activeExec = 0;
+		executables = (
+			00AB23C212182CAB005E5FA7 /* MacLogger */,
+		);
+	};
+}

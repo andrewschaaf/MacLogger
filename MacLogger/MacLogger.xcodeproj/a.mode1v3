@@ -321,7 +321,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MacLogger_Prefix.pch</string>
+								<string>MacLoggerAppDelegate.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -329,11 +329,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MacLogger_Prefix.pch</string>
+										<string>MacLoggerAppDelegate.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>00F10E351267AF2900F7B402</string>
+										<string>005FDF50126820EB005E4BF3</string>
 										<key>history</key>
 										<array>
 											<string>0022AE7B123F12B100D8B452</string>
@@ -346,7 +346,6 @@
 											<string>007C9AE11267A8FD000BABBB</string>
 											<string>007C9AE31267A8FD000BABBB</string>
 											<string>007C9AE71267A8FD000BABBB</string>
-											<string>007C9AFA1267A97D000BABBB</string>
 											<string>007C9AFB1267A97D000BABBB</string>
 											<string>007C9AFC1267A97D000BABBB</string>
 											<string>007C9AFD1267A97D000BABBB</string>
@@ -358,7 +357,8 @@
 											<string>007C9B161267AE8F000BABBB</string>
 											<string>007C9B171267AE8F000BABBB</string>
 											<string>007C9B181267AE8F000BABBB</string>
-											<string>007C9B191267AE8F000BABBB</string>
+											<string>005FDF3E12682056005E4BF3</string>
+											<string>005FDF3F12682056005E4BF3</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -416,9 +416,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>00F10E281267AF2800F7B402</string>
+				<string>005FDF3712682029005E4BF3</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>00F10E291267AF2800F7B402</string>
+				<string>005FDF3812682029005E4BF3</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -556,12 +556,13 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>00F10E331267AF2800F7B402</string>
-		<string>00F10E341267AF2800F7B402</string>
+		<string>005FDF52126820EB005E4BF3</string>
+		<string>005FDF53126820EB005E4BF3</string>
+		<string>005FDF54126820EB005E4BF3</string>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
-		<string>00AB23D312182CBA005E5FA7</string>
 		<string>/Users/a/repos/MacLogger/MacLogger/MacLogger.xcodeproj</string>
+		<string>00AB23D312182CBA005E5FA7</string>
 	</array>
 	<key>WindowString</key>
 	<string>202 55 1238 823 0 0 1440 878 </string>
@@ -580,12 +581,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>MacLoggerAppDelegate.h</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -641,7 +644,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>00AB23D312182CBA005E5FA7</string>
-				<string>00F10E2A1267AF2800F7B402</string>
+				<string>005FDF3912682029005E4BF3</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -654,7 +657,7 @@
 			<key>WindowToolGUID</key>
 			<string>00AB23D312182CBA005E5FA7</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -763,13 +766,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>00F10E2B1267AF2800F7B402</string>
+				<string>005FDF4112682056005E4BF3</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>00F10E2C1267AF2800F7B402</string>
-				<string>00F10E2D1267AF2800F7B402</string>
-				<string>00F10E2E1267AF2800F7B402</string>
-				<string>00F10E2F1267AF2800F7B402</string>
-				<string>00F10E301267AF2800F7B402</string>
+				<string>005FDF4212682056005E4BF3</string>
+				<string>005FDF4312682056005E4BF3</string>
+				<string>005FDF4412682056005E4BF3</string>
+				<string>005FDF4512682056005E4BF3</string>
+				<string>005FDF4612682056005E4BF3</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -923,7 +926,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>00F10E311267AF2800F7B402</string>
+				<string>005FDF51126820EB005E4BF3</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
